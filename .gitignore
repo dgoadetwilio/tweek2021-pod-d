@@ -14,4 +14,8 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# project intermediates
 tweek2021-pod-d
+
+# IDE stuff
+.idea/
